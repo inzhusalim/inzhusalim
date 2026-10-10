@@ -18,8 +18,11 @@ I build accessible, high-performance interfaces with clean, maintainable code—
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt="Animated illustration of a developer working at a computer" />
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/inzhusalim)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nnuko) · [@nnuko](https://t.me/nnuko) · [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faceinink@gmail.com) · [faceinink@gmail.com](mailto:faceinink@gmail.com)
+<div align="center">
+  <a href="https://github.com/inzhusalim" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="28" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/nnuko" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" height="28" /></a>&nbsp;&nbsp;
+  <a href="mailto:faceinink@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28" /></a>
+</div>
 
 ---
 
