@@ -14,13 +14,60 @@
 
 ## Featured Projects
 
-| Project | Live Demo | Repository | Product Focus | Tech Stack |
-|---|---|---|---|---|
-| **RoastCraft** | Not linked | [Source](https://github.com/inzhusalim/roastcraft) | A specialty coffee subscription landing page that guides US customers from flavor discovery to a clear, accessible checkout prototype. | ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **Home Renovation Cost Estimator** | [Live Demo](https://home-renovation-cost-estimator.vercel.app) | [Source](https://github.com/inzhusalim/home-renovation-cost-estimator) | A US home renovation estimator that turns project inputs into regional, itemized budgets customers can save or print. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF) |
-| **PulseCommerce** | [Live Demo](https://pulsecommerce-iota.vercel.app) | [Source](https://github.com/inzhusalim/pulsecommerce) | A DTC operations dashboard that brings revenue trends, customer records, and searchable, exportable order workflows into one workspace. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Recharts](https://img.shields.io/badge/Recharts-20232A?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF) |
-| **Stillrise Coffee** | [Live Demo](https://stillrise-coffee.vercel.app) | [Source](https://github.com/inzhusalim/stillrise-coffee) | A coffee storefront that guides shoppers through product variants, a persistent cart, and guest checkout with simulated payment outcomes. | ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Zustand](https://img.shields.io/badge/Zustand-20232A?style=flat-square) |
-| **Apex Grooming Lounge** | Not linked | [Source](https://github.com/inzhusalim/apex-grooming-lounge) | A barbershop booking flow with Austin-aware scheduling, accessible validation, live totals, and calendar exports. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF) |
+### RoastCraft
+
+[Repository](https://github.com/inzhusalim/roastcraft)
+
+A specialty coffee subscription landing page that guides US customers from flavor discovery to a clear, accessible checkout prototype.
+
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+### Home Renovation Cost Estimator
+
+[Live Demo](https://home-renovation-cost-estimator.vercel.app) · [Repository](https://github.com/inzhusalim/home-renovation-cost-estimator)
+
+A US home renovation estimator that turns project inputs into regional, itemized budgets customers can save or print.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
+
+### PulseCommerce
+
+[Live Demo](https://pulsecommerce-iota.vercel.app) · [Repository](https://github.com/inzhusalim/pulsecommerce)
+
+A DTC operations dashboard that brings revenue trends, customer records, and searchable, exportable order workflows into one workspace.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Recharts](https://img.shields.io/badge/Recharts-20232A?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
+
+### Stillrise Coffee
+
+[Live Demo](https://stillrise-coffee.vercel.app) · [Repository](https://github.com/inzhusalim/stillrise-coffee)
+
+A coffee storefront that guides shoppers through product variants, a persistent cart, and guest checkout with simulated payment outcomes.
+
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=flat-square)
+
+### Apex Grooming Lounge
+
+[Repository](https://github.com/inzhusalim/apex-grooming-lounge)
+
+A barbershop booking flow with Austin-aware scheduling, accessible validation, live totals, and calendar exports.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
 
 ## Tech Stack
 
