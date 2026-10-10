@@ -19,7 +19,7 @@ I build accessible, high-performance interfaces with clean, maintainable code—
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/inzhusalim)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nnuko) · [@nnuko](https://t.me/nnuko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nnuko) · [@nnuko](https://t.me/nnuko) · [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faceinink@gmail.com) · [faceinink@gmail.com](mailto:faceinink@gmail.com)
 
 ---
 
